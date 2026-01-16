@@ -19,4 +19,4 @@ QR Code Generator is a simple application that generates QR codes for text or UR
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/Anup9771/qr-code-generator.git
